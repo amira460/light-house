@@ -1,0 +1,33 @@
+.layer {
+    bottom: 20px;
+    left: 20px;
+    right: 20px;
+    text-align: center;
+}
+
+i {
+    position: absolute;
+    cursor: pointer;
+}
+#colsebtn {
+    top: 10px;
+    right: 10px;  
+}
+#nextbtn {
+    top: 50%;
+    right: 10px;
+}
+#prebtn {
+    top: 50%;
+    left: 10px;
+}
+.fixed-layer {
+    background-color: rgba(0, 0, 0, 0.4);
+    
+}
+
+
+
+
+
+
